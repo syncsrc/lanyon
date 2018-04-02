@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Placeholder until a proper bio gets written
+Placeholder
 
 
 Blog built on [Lanyon](http://lanyon.getpoole.com)
