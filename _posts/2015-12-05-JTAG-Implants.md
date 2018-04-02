@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEFCON video posted
+title: JTAG Implants at DEFCON 23
 ---
 
 Inspired by the NSA ANT catalog, the NSA Playset project aims to make cutting edge security tools more accessible.
