@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 44con video posted
+title: Jtagsploitation at 44con 2015
 ---
 
 This presentation covers methods for how to turn JTAG access into privileged software access on a system. Each 
