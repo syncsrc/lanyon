@@ -10,4 +10,4 @@ exploits, but don't enable detection or recovery of firmware when they inevitabl
 Fortunately, nearly every device has an existing mechanism to force it into a state which can be 
 used to restore the writable firmware components. 
 
-(https://archive.org/details/Shmoocon2018/Shmoocon2018-SecuringBareMetalHardwareAtScale.mp4)
+Shmoocon presentation of [Securing BareMetal Hardware At Scale](https://archive.org/details/Shmoocon2018/Shmoocon2018-SecuringBareMetalHardwareAtScale.mp4)
