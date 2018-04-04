@@ -120,6 +120,10 @@ Lanyon has two branches, but only one is used for active development.
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
 
+## Social media links
+[Adding social media links to Jekyll](https://blog.r3bl.me/en/simple-social-media-links-jekyll/)
+
+
 ## Author
 
 **Mark Otto**
