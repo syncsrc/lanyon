@@ -13,4 +13,5 @@ Placeholder
   </li>
 {% endif %}
 
-Blog built on [Lanyon](http://lanyon.getpoole.com)
+
+<sub>Blog built on [Lanyon](http://lanyon.getpoole.com)</sub>
