@@ -14,7 +14,7 @@ paginate:            5
 author:
   name:              Matt
   url:               https://www.syncsrc.org
-  twitter:           https://twitter.com/syncsrc
+  twitter:           syncsrc
   email:             jtag@syncsrc.org
 
 # Custom vars
