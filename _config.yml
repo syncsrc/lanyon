@@ -13,7 +13,8 @@ paginate:            5
 # About/contact
 author:
   name:              Matt
-  url:               https://twitter.com/syncsrc
+  url:               https://www.syncsrc.org
+  twitter:           https://twitter.com/syncsrc
   email:             jtag@syncsrc.org
 
 # Custom vars
