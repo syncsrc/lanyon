@@ -7,7 +7,7 @@ Placeholder
 
 ## Contact
 
-<a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i>Twitter</a>
+<a href="https://twitter.com/syncsrc"><i class="fa fa-twitter"></i>Twitter</a>
 
 
 <br><br><br>
