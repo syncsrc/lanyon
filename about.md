@@ -14,4 +14,5 @@ Placeholder
 {% endif %}
 
 
+<br><br><br>
 <sub>Blog built on [Lanyon](http://lanyon.getpoole.com)</sub>
