@@ -7,13 +7,13 @@ permalink:           pretty
 title:               SYNCSRC
 tagline:             'Exploring Trust Issues'
 description:         'The content here does not reflect the opinions of any government, company, organization or person.'
-baseurl:             ''
+baseurl:             http://www.syncsrc.org
 paginate:            5
 
 # About/contact
 author:
   name:              Matt
-  url:               https://www.syncsrc.org
+  url:               http://www.syncsrc.org
   twitter:           syncsrc
   email:             jtag@syncsrc.org
 
