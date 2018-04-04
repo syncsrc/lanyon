@@ -5,7 +5,8 @@ title: About
 
 Placeholder
 
-##Contact
+## Contact
+
 <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i>Twitter</a>
 
 
