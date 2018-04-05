@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jtagsploitation at 44con 2015
+tags: videos
 ---
 
 An overview of five methods for how to turn JTAG access into privileged software access on a system. Each 
