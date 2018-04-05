@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Securing BareMetal at Shmoocon 2018
+tags: videos
 ---
 
 Defending against firmware implants requires a different approach than what hardware vendors have 
