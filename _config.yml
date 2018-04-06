@@ -8,6 +8,7 @@ title:               SYNCSRC
 tagline:             'Emergent Trust Issues'
 description:         'The content here does not reflect the opinions of any government, company, organization or person.'
 baseurl:             http://www.syncsrc.org
+tagurl:              http://www.syncsrc.org/tags.html
 paginate:            5
 
 # About/contact
