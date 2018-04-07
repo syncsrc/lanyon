@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav-item-sub {
   font-size: 80%;
   line-height: 70%;
-  padding-left: 3em;
+  padding-left: 10%;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
