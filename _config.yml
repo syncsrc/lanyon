@@ -8,15 +8,13 @@ title:               SYNCSRC
 tagline:             'Emergent Trust Issues'
 description:         'The content here does not reflect the opinions of any government, company, organization or person.'
 baseurl:             http://www.syncsrc.org
-tagurl:              http://www.syncsrc.org/tags
 paginate:            5
 
 # About/contact
 author:
   name:              Matt
-  url:               http://www.syncsrc.org
   twitter:           syncsrc
   email:             contact@syncsrc.org
 
 # Custom vars
-version:             1.0.1
+version:             1.0.2
