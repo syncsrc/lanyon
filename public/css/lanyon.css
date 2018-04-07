@@ -183,12 +183,9 @@ h1, h2, h3, h4, h5, h6 {
   border-top: 1px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item-sub {
-  font-size: 60%;
-  line-height: 60%;
-  a::before {
-    content: "";
-    padding-left: 1em;
-  }
+  font-size: 75%;
+  line-height: 70%;
+  padding-left: 1em;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
