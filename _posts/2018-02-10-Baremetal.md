@@ -12,3 +12,5 @@ Fortunately, nearly every device has an existing mechanism to force it into a st
 used to restore the writable firmware components. 
 
 Shmoocon presentation of [Securing BareMetal Hardware At Scale](https://archive.org/details/Shmoocon2018/Shmoocon2018-SecuringBareMetalHardwareAtScale.mp4)
+
+[Slides](http://www.syncsrc.org/public/shmoocon_2018_final.pdf)
