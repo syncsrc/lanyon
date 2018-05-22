@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Micro-Renovator, a microcode updater
-tags: videos
+tags: firmware
 ---
 
 With more microcode patches expected in response to another Spectre variant, the difficult process of acquiring and applying firmware updates is starting again. While microcode updates for these vulnerabilities can be delivered through either updates to UEFI firmware or Operating System packages, not all vendors have proven to be timely and thorough in distributing these updates.
